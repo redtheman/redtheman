@@ -20,6 +20,7 @@ I keep production AWS and on-prem estates secure, patched, backed up and auditab
 | [**aws-quarterly-it-risk-report**](https://github.com/redtheman/aws-quarterly-it-risk-report) | Serverless (SAM/Lambda) quarterly evidence pack for the IT Risk Manager: AWS Backup success and restore tests, EC2 CPU and RDS utilisation, auto-flagged findings, SHA-256 manifest, SNS delivery |
 | [**ssm-cve-patching**](https://github.com/redtheman/ssm-cve-patching) | `cvepatch` CLI and runbook for emergency CVE response: find exposed ports, measure exposure by CVE/KB, snapshot, canary-then-wave patching that stops on failure, verify gate |
 | [**rds-db-provisioner**](https://github.com/redtheman/rds-db-provisioner) | Lambda that creates an app database, login role and least-privilege grants (owner / readwrite / readonly) on RDS PostgreSQL, MySQL or MariaDB, and stores the credentials in Secrets Manager. Tested against real PG16 and MariaDB |
+| [**ansible-ubuntu-baseline**](https://github.com/redtheman/ansible-ubuntu-baseline) | Ansible role, run over SSM (no SSH), that hardens Ubuntu 22.04/24.04: key-only SSH with modern ciphers, kernel and audit rules, security auto-updates, Amazon Time Sync, SSM and Wazuh agents. Molecule-tested for idempotence |
 
 ## 🧰 Toolbox
 
