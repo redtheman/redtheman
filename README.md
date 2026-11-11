@@ -5,7 +5,7 @@
 I keep production AWS and on-prem estates secure, patched, backed up and auditable, and I automate the boring parts so they stay that way.
 
 - ☁️ Look after **200+ EC2 instances** (Ubuntu and Windows) across **9 AWS accounts**, serving 1,000+ users
-- 🛡️ Closed **1,000+ vulnerability findings** fleet-wide through SSM, with no SSH or RDP on the fleet
+- 🛡️ Closed **1,000+ vulnerability findings** fleet-wide through SSM (no SSH or RDP on the fleet), raising the VAPT-based security posture score from **40% to 91%**
 - 🏗️ Leading the consolidation of **9 production AWS accounts into one**, built and managed with **Terraform**
 - 🗄️ Migrated **20+ self-managed databases** into Amazon RDS (PostgreSQL, MariaDB)
 - 📞 Built on-prem call centers for 3 countries (KE, UG, TZ; ~150 agents): Yeastar PBX on Proxmox
@@ -34,7 +34,7 @@ I keep production AWS and on-prem estates secure, patched, backed up and auditab
 
 - AWS Certified Solutions Architect – Associate (2025)
 - AWS Certified Cloud Practitioner (2019)
-- AWS Certified Data Engineer – Associate (DEA-C01): *in progress*
+- AWS Certified Data Engineer – Associate (DEA-C01): *expected Q1 2027*
 - PKI Appliance & SignServer / EJBCA (2019) · National PKI training, Samsung SDS/KICA, Seoul (2013)
 - Google Workspace Deployment Specialist (2022) · IBM AIX & Spectrum Protect (2018) · Oracle DB 11g OCA (2013) · CCNA (2009)
 
