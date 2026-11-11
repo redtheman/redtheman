@@ -5,11 +5,11 @@
 I keep production AWS and on-prem estates secure, patched, backed up and auditable, and I automate the boring parts so they stay that way.
 
 - ☁️ Look after **200+ EC2 instances** (Ubuntu and Windows) across **9 AWS accounts**, serving 1,000+ users
-- 🛡️ Remediated **200+ CVEs** fleet-wide through SSM, with no SSH or RDP on the fleet
+- 🛡️ Closed **1,000+ vulnerability findings** fleet-wide through SSM, with no SSH or RDP on the fleet
 - 🗄️ Migrated **20+ self-managed databases** into Amazon RDS (PostgreSQL, MariaDB)
 - 📊 SIEM and audit: Wazuh multi-node, CloudTrail and CloudWatch, S3 archiving with lifecycle tiering
 - 🏢 On-prem: hypervisors, network hardware, backup/DR, and new site build-outs end to end
-- 🔐 Currently building a PKI lab around OpenXPKI and hardware HSMs
+- 🔐 PKI background: engineer on Kenya's first National PKI datacenter; now building a PKI lab around OpenXPKI and hardware HSMs
 
 ## 🔧 Featured projects
 
@@ -29,7 +29,11 @@ I keep production AWS and on-prem estates secure, patched, backed up and auditab
 
 ## 📜 Certifications
 
+- AWS Certified Solutions Architect – Associate (2025)
+- AWS Certified Cloud Practitioner (2019)
 - AWS Certified Data Engineer – Associate (DEA-C01): *in progress*
+- PKI Appliance & SignServer / EJBCA (2019) · National PKI training, Samsung SDS/KICA, Seoul (2013)
+- Google Workspace Deployment Specialist (2022) · IBM AIX & Spectrum Protect (2018) · Oracle DB 11g OCA (2013) · CCNA (2009)
 
 ## 📫 Reach me
 
