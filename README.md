@@ -6,7 +6,9 @@ I keep production AWS and on-prem estates secure, patched, backed up and auditab
 
 - ☁️ Look after **200+ EC2 instances** (Ubuntu and Windows) across **9 AWS accounts**, serving 1,000+ users
 - 🛡️ Closed **1,000+ vulnerability findings** fleet-wide through SSM, with no SSH or RDP on the fleet
+- 🏗️ Leading the consolidation of **9 production AWS accounts into one**, built and managed with **Terraform**
 - 🗄️ Migrated **20+ self-managed databases** into Amazon RDS (PostgreSQL, MariaDB)
+- 📞 Built on-prem call centers for 3 countries (KE, UG, TZ; ~150 agents): Yeastar PBX on Proxmox
 - 📊 SIEM and audit: Wazuh multi-node, CloudTrail and CloudWatch, S3 archiving with lifecycle tiering
 - 🏢 On-prem: hypervisors, network hardware, backup/DR, and new site build-outs end to end
 - 🔐 PKI background: engineer on Kenya's first National PKI datacenter; now building a PKI lab around OpenXPKI and hardware HSMs
@@ -20,12 +22,12 @@ I keep production AWS and on-prem estates secure, patched, backed up and auditab
 
 ## 🧰 Toolbox
 
-**Cloud:** AWS (EC2, RDS, SSM, Backup, CloudWatch, CloudTrail, IAM, S3, Lambda, SAM)  
+**Cloud & IaC:** Terraform, AWS (EC2, RDS, SSM, Backup, CloudWatch, CloudTrail, IAM, S3, Lambda, SAM)  
 **Security:** Wazuh, vulnerability management, patch management, security groups and network hardening, PKI  
-**Systems:** Linux (Ubuntu), Windows Server, Apache, Docker  
+**Systems:** Linux (Ubuntu), Windows Server, Apache, Nginx, IIS, Docker, Proxmox, Yeastar PBX  
 **Data:** PostgreSQL, MariaDB/MySQL  
 **Code:** Python, Bash, PowerShell  
-**Networking:** circuit provisioning, VLANs, routing, /31 point-to-point links
+**Networking:** site-to-site and client VPNs, circuit provisioning, VLANs, routing, /31 point-to-point links
 
 ## 📜 Certifications
 
@@ -37,4 +39,4 @@ I keep production AWS and on-prem estates secure, patched, backed up and auditab
 
 ## 📫 Reach me
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · Open to Cloud, DevSecOps and Infrastructure roles (Nairobi or remote)
+[LinkedIn](https://www.linkedin.com/in/michael-kimiti-3241b419/) · Open to Cloud, DevSecOps and Infrastructure roles (Nairobi or remote)
